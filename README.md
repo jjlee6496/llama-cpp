@@ -41,7 +41,7 @@ cmake --build . --config Release
   -t 16
 ```
 
-![](https://github.com/jjlee6496/llama-cpp/imgs/test1.png)
+![](https://github.com/jjlee6496/llama-cpp/blob/main/imgs/test1.png)
 
 gpu사용 확인
 
@@ -52,7 +52,7 @@ gpu사용 확인
 
 ```
 
-![](https://github.com/jjlee6496/llama-cpp/imgs/test2.png)
+![](https://github.com/jjlee6496/llama-cpp/blob/main/imgs/test2.png)
 
 localhost 8080 포트
 
